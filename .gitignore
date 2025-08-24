@@ -1,0 +1,21 @@
+# Dataset / tokenized data
+tokenized_biomcq_dataset/
+tokenized_biomcq_dataset_old/
+sample_data/
+
+# Model / checkpoints
+mcq_model/
+mcq_model_fixed/
+
+# Python cache and environment
+__pycache__/
+*.pyc
+.env
+.venv
+.config/
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Logs / temporary files
+*.log
