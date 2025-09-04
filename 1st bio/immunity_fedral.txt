@@ -1,0 +1,129 @@
+The body's response to foreign particles, such as the production of antibodies directed against a specific antigen, is called an immune response. Immunity is the ability to resist damage from foreign substances such as microorganisms and harmful chemicals, e.g., toxins released by microorganisms. Immunology is the study of foreign particles that can affect the living body and the defence mechanisms undertaken by the body to eliminate these particles. The human body has three lines of defence against microbial attack. The first line of defence comprises external barriers that keep microbes out of the body. The second line of defence consists of nonspecific internal defence (innate immunity) that combats all invading microbes. The third line of defence includes the specific internal defence (adaptive/acquired immunity), also called the immune system.
+
+The first and obviously best defence is to keep microbes out in the first place. The human body has two surfaces exposed to the environment: the skin and the mucous membranes of the digestive and respiratory tracts. These surfaces are external barriers to microbial invasion. Since these barriers inhibit generally all kinds of microbial invasion, the first line of defence is supposed to be a non-specific defence.
+
+IMMUNE RESPONSE
+
+Pathogens (bacteria, virus, fungi, etc.)
+
+First line of defense (nonspecific)
+
+Mechanical
+
+Chemical
+
+Reflexes
+
+Fig. 13.1: Three lines of defence of the body.
+
+The skin also contains the sebaceous glands and sweat glands. Sebaceous glands secrete sebum, an oily substance, whereas sweat glands secrete sweat which has a cooling effect on the body. Secretion from sweat glands also contains natural antibiotics that inhibit the growth of bacteria and fungi. These multiple defence mechanisms make the skin an effective barrier against microbial invasion.
+
+Sweat pores
+Duct
+Sebaceous gland
+Sweat gland
+Dermis
+
+Epithelium of Digestive Tract: an impenetrable barrier against microbial invasion
+
+Epithelium of Respiratory Tract: an impenetrable barrier against microbial invasion
+
+The anterior part of nasal cavities that contain hairs is called vestibule. These vestibular hairs filter the large dust particles of the inhaled air. The inner surface of nasal cavities is also lined by ciliated mucous epithelium. The mucous secreted by this epithelium is also involved in trapping of fine dust particles and microbes. The cilia of the epithelium sweep the trapped, fine dust particles and microbes posteriorly to the pharynx, where they are swallowed and are eliminated by the digestive system. The trachea and the air passageways within the lungs are also lined by ciliated mucous epithelium that is also involved in trapping of fine dust particles and microbes. The cilia in this region propel mucus and foreign particles towards the larynx, where they enter the pharynx and are swallowed.
+
+Fig. 13.3: A diagrammatic view of the respiratory epithelium of trachea showing the direction of movement of mucous containing trapped particles towards pharynx.
+
+If microbes become successful to penetrate the skin or mucous membranes then a second line of defence takes action against these foreign invaders. The second line of defence comprises three nonspecific internal defences. First, the body has a standing army of phagocytic cells and natural killer cells. Second, invasion of microbes provokes an inflammatory response. Third, the body often produces fever. In addition, some protective proteins are also the part of second line of defence. These defences are nonspecific because they attack a wide variety of microbes, rather than targeting specific invaders as the immune response does.
+
+Killing Cells of Blood
+There are white blood cells in the body called phagocytes. A phagocyte is a cell that destroys other abnormal body cells (cancerous cells) or invaded microorganisms by engulfing them. This process is called phagocytosis. Two types of blood cells are phagocytes: Macrophages and neutrophils.
+
+Macrophages
+Macrophages are derived from monocytes or the monocytes that leave the blood. Monocytes are formed in bone marrow. From bone marrow, monocytes are transported to the areas of the body where they are needed. They are generally found in the organs such as the lungs, liver, spleen, and kidneys rather than remaining in the blood. In these organs, they patrol for potential pathogens.
+
+Macrophages keep on engulfing bacteria and other microbes. They also secrete many proteins that are toxic to many of the microbes. Some of these proteins also stimulate the division of lymphocytes, thereby increasing their numbers. Macrophages also secrete a protein that signals the brain to raise the body temperature, producing fever. They also play a role in initiating the specific immune response.
+
+Neutrophils
+Neutrophils are a granulocyte type of WBCs. They are highly short-lived. They can squeeze between cells of capillary walls and can enter parts of tissue other WBCs may not be able to enter otherwise. They move rapidly to infected area to perform their duty. Neutrophils also release lysosomal enzymes that can cause inflammation.
+
+Natural Killer (NK) cells are a type of lymphocyte. They can recognize and attach to certain tumour cells and virus-infected cells. Upon attachment, they release chemicals that lead to the diffusion of certain apoptotic proteases, known as granzymes, into the target cell. The cell dies by apoptosis. NK cells also attack cancer cells.
+
+The complement system consists of over thirty types of small proteins found in the blood. They are synthesized by the liver, and normally circulate in an inactive state. They are activated on the entry of foreign particles. Once a complement protein is activated, it activates another protein, which further activates other proteins of the system and so on. The result of this complement activation is stimulation of phagocytes to clear foreign and damaged material, development of inflammation to attract additional phagocytes at the site of infection and activation of the cell killing membrane attack complexes. The complement system is an important supporter of the immune system that enhances (complements) the ability of antibodies and phagocytic cells to clear microbes and damaged cells from the body, promotes inflammation, and attacks the pathogen's plasma membrane.
+
+An example of protective proteins of complement system is perforin, a membrane attack complex that produces holes in the bacterial cell walls and plasma membranes of bacteria. The holes allow fluids and salts to enter the bacterial cell, thus, the bacterial cell swells and eventually bursts.
+
+Fig. 13.5: Action of the complement system against a bacterium.
+
+Interferons belong to the large class of proteins known as cytokines, molecules used for communication between cells during infection. They are released by host cells in response to the presence of pathogens, especially viruses. Interferons are named for their ability to "interfere" with viral replication.
+
+Inflammation is an inflammatory response to an infectious microorganism or by physical damage. Inflammation can be local or systemic. The classical signs of inflammation are heat, pain, redness, and swelling.
+
+Imagine that you have broken the skin and infected it with bacteria. The first thing that happens when tissue is injured is that the damaged cells release chemicals like histamine. The chemical sparks the mobilization of various defences. Histamine induces neighbouring blood vessels to dilate and blood flow increases. The blood supply to the damaged area increases, and blood plasma passes out into the tissues.
+
+Fig. 13.6: The Inflammatory response.
+
+Fever Response
+Fever is the raised body temperature than normal. The invading microorganisms release certain chemicals, which are generally termed as pyrogens. These chemicals raise the temperature set point of the hypothalamic thermostat of the body, resulting in heat conservation and increased heat production. Since a higher body temperature than normal can inhibit the microbial growth in the body, this is the reason why invaded microorganisms try to increase the host's body temperature.
+
+On the other hand, certain white blood cells in response to the infection, also release hormones generally called endogenous pyrogens that further raise the temperature set point of hypothalamus. The higher body temperature than normal increases the activity of phagocytic white blood cells that attack and engulf bacteria. The endogenous pyrogens also cause liver cells to reduce the concentration of iron in the blood because many bacteria require more iron to reproduce at a temperature of 38°C or 39°C than at 37°C; the fever and reduced iron in the blood combine to slow bacterial growth and their rate of reproduction. Fever also increases the production of interferons that travel to other cells and stimulate their resistance to viral attack. The higher body temperature may directly inactivate the virus particles, especially enveloped viruses, which are more heat-sensitive than non-enveloped viruses. Replication of many viruses is reduced at higher temperatures, so fever may inhibit replication.
+
+Several experiments have suggested that interleukin-1 causes fever by first inducing the formation of one of the prostaglandins. When drugs block prostaglandin formation, the fever is either completely abrogated or at least reduced. In fact, this may be the explanation for the manner in which aspirin reduces the degree of fever because aspirin impedes the formation of prostaglandins from arachidonic acid. It also would explain why aspirin does not lower the body temperature in a normal person because a normal person does not have any interleukin-1. Drugs such as aspirin that reduce the level of fever are called antipyretics.
+
+Doctors prescribe antihistamine therapy to patients with a runny nose or skin rashes. These are a type of hypersensitivity reaction in which histamine is released from basophils. Its release causes vasodilation, increased capillary permeability and itching. Antihistamine drugs block histamine receptor sites so histamine action is reduced; they are effective in allergic rhinitis i.e., runny nose and skin rashes.
+
+The third line of defence is a specific defence. It is specific because it can recognize and respond against specific antigens. These antigens serve as markers on invading organisms. The term "antigen" comes from ANTIBODY-GENERATING. Bacteria and other pathogens have specific antigens on their surfaces. This defence can recognize and respond against particular infections and acts as a specific defence against particular infections; therefore, it is also called specific defence. It is of two types: Humoral immune response and cell-mediated immune response. Humoral immune responses are carried out by B-lymphocytes or B cells, whereas cell-mediated immune responses are particularly carried out by T-lymphocytes or T cells. However, the third line of defence also includes other cells (like macrophages) that participate in the activation of these lymphocytes.
+
+Role of Monocytes in Third Line of Defence
+As described in the second line of defence, monocytes are a kind of WBCs, formed in bone marrow and lymphoid tissues. The monocytes circulate in blood for 10 to 20 hours; then they leave the blood and come into the intercellular space of tissues. There they become large and attain a larger size to become tissue macrophages. When macrophages perform phagocytosis of invaded microorganisms, after digesting them they not only display microbial antigens on their surfaces but also begin to secrete about 100 different types of proteins, including various enzymes, interferons and a protein called interleukin-1. Interleukin-1 secreted by macrophages activates the T cells that in turn secrete interleukin-2, which then activates the B cells. Interleukin-1 also causes fever.
+
+In this way, macrophages present the antigen to the T cells. Macrophages also secrete interleukin-1 that stimulates activated T cells to secrete another protein called interleukin-2. Interleukin-2 not only causes the activated T cells to divide but also causes the proliferation of other T cells and B cells.
+
+Fig. 13.7: Activation of cell-mediated immune response.
+
+When activated, they divide and produce four types of cells which participate in the immune response.
+
+Cytotoxic T Cells: These cells secrete cytotoxin which triggers destruction of the pathogen or perforin which is a protein that creates holes in the infected cell's membrane. The holes cause it to swell and rupture (lyse).
+
+Helper T Cells
+
+Suppressor T Cells
+
+Memory T Cells: If the same pathogen presents itself again, even if it is years later, the memory T cells convert themselves into helper T cells and help fight the pathogen.
+
+Third line of defence: Humoral/Antibody-mediated Immune Response
+B-lymphocytes (B cells) are produced and matured in the bone marrow. B cells express specific receptors on their cell surfaces called B cell receptors (BCRs). BCRs allow the B cell to bind a specific antigen and initiate an antibody response. Like T cells, there are millions of B cells, each specific for one particular antigen.
+
+Helper T Cells - Suppressor T Cells - Memory T Cells
+
+Cytotoxic T Cells destroy cancer cells and cells infected by viruses
+Plasma Cells activate B Cells
+Suppressor T Cells shut down immune response
+Memory T Cells long-lived, provide future immunity
+
+The major cells of the immune system and their roles in the immune system.
+
+Antibodies (also called immunoglobulins or Igs) are appropriate Y-shaped protein molecules. They are highly specific proteins that recognize and bind specific antigens, like a key fits a lock. The antibodies are released into the blood and the lymph to circulate through the body.
+
+Immunity is the ability to resist infection. It can be classified as (a) inborn or innate immunity and (b) acquired or adaptive immunity.
+
+The ability of the body to resist almost all types of microorganisms is not the same in all individuals. The first and second lines of defence that you have studied are the part of innate or inborn immunity. The specific protection is provided by the third line of defence, the acquired immunity. A newborn baby acquires the great immune system from the mother, but it takes several months for this system to become fully functional. The two major components of the acquired immune system are cell-mediated immunity and antibody-mediated immunity.
+
+Edward Jenner is known as the founder of vaccinology. In 1796, he inoculated a person with cowpox virus, who then became immune to smallpox. Edward Jenner observed and studied the case of a milkmaid who had previously suffered from cowpox and was found to be immune to smallpox.
+
+Artificial passive immunity provides immediate but short-term protection if a person has been, or is likely to be, exposed to an infection. The specific antibodies used for combating tetanus and diphtheria used to be obtained from horses and injected into humans. Only antibodies of human origin are now used. They are used against rabies and some snake venoms. Anti-Rhesus blood group antigen are used.
+
+Disorders of Immune System
+Allergies are conditions that stimulate a deleterious immune response or destroy immune system components.
+
+Allergies are defective immune responses leading to chronic health conditions like Hay fever, asthma and food allergy. The immune system of allergy patients overreacts to harmless substances (like pollen, dust or mold) that are inhaled, ingested, or enter through the skin. The immune system responds by producing a large quantity of special antibodies IgE. This IgE binds with basophils to release chemicals like histamine. Histamine increases capillary leakiness, causes inflammation and other allergic responses. Antihistamine drugs are used to treat such allergies.
+
+Autoimmune disease results when a person's immune system does not normally respond to the antigens of its own cells and the antibodies are going to produce against its own cells and tissues.
+
+Transplant rejection occurs when the recipient's immune mechanisms are activated against the donated tissue or organ. This is called transplant rejection.
+
+The mechanism of rejection probably varies with the nature of the tissue and the circumstances. In general, what happens is that the host helper T cells come into contact with the foreign major histocompatibility complex (MHC) antigens. This contact is facilitated by dendritic cells of the graft tissue itself. At this point, three different mechanisms can occur. First, antigen-specific TH cells stimulate the activation and proliferation of cytotoxic T cells, which then mount a focused attack on the transplant tissue. Second, antigen-specific TH cells move to the graft site, where they release cytokines that recruit monocyte/macrophages and T cells to the graft site and maintain the inflammatory response; they destroy the tissue. A third mechanism involves antibodies. The responsive helper T cells activate the appropriate B cell clone, producing a shower of antibodies to the foreign MHC antigens. These can trigger either complement-mediated graft destruction or opsonize the grafted tissue for phagocytosis by macrophages.
+
+Connections in Society
+
+Melanoma is due to the inability of tumour-specific cytotoxic T lymphocytes to recognize the tumour. Melanoma is a type of skin cancer. One of the new advancements is inserting a gene for a receptor protein into the lymphocyte.
+
+Cancer begins when cells begin to grow out of control. Melanoma is a cancer that begins in melanocytes, a type of skin cell. Melanomas can develop anywhere on the skin, but they are more likely to start on the chest and back in men and on the legs in women. The neck and face are other common sites. Melanomas develop when unrepaired DNA damage to skin cells (often caused by ultraviolet radiation from sunshine or tanning beds) triggers mutations (genetic defects) that lead the skin cells to multiply rapidly and form malignant tumours. It is the most dangerous form of skin cancer.

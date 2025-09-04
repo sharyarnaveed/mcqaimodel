@@ -1,0 +1,187 @@
+===== Page 24 =====
+BIOLOGICAL
+MOLECULES
+
+INTRODUCTION TO BIOCHEMISTRY
+
+Biochemistry is a branch of Biology, which deals with the study of chemical
+components and the chemical processes in living organisms. A basic knowledge of
+Biochemistry is essential for understanding anatomy and physiology, because all of the
+structures of an organism have biochemical organization. For example, photosynthesis,
+respiration, digestion, and muscle contraction can all be described in biochemical terms.
+
+All living things are made of certain chemical compounds, which are generally
+classified as organic and inorganic. The most important organic compounds in living
+organisms are carbohydrates, proteins, lipids, and nucleic acids. Among inorganic
+substances are water, carbon dioxide, acids, bases, and salts.
+
+Typically an animal and a bacterial cell consist of chemicals as shown in the
+following table.
+
+Table 2.1 Chemical composition of a Bacterial and a Mammalian cell.
+
+Proteins
+Carbohydrates
+Lipids
+DNA
+RNA
+Other organic molecules — (Enzymes, hormones, metabolites)
+Inorganic ions — (Na+, K+, Ca2+, Mg2+, Cl-, Fe2+/3+, SO4-2, etc.)
+
+===== Page 25 =====
+Cells of every organism are constantly taking in new substances and changing
+them chemically in various ways, i.e. building new cellular materials and obtaining energy
+for their needs. The life of an organism depends upon the ceaseless chemical activities in its
+cells. This chemical activity is maintained with a high degree of organization. All the
+chemical reactions taking place within a cell are collectively called metabolism.
+
+Metabolic processes are characterized as anabolism and catabolism. Those reactions in
+which simpler substances are combined to form complex substances are called anabolic
+reactions. Anabolic reactions need energy. Energy is released by the breakdown of
+complex molecules into simpler ones; such reactions are called catabolic reactions.
+Anabolic and catabolic reactions go hand in hand in living cells. Complex molecules
+are broken down and the resulting smaller molecules are reused to form new complex
+molecules. Interconversions of carbohydrates, proteins, and lipids that occur continuously
+in living cells are examples of coordinated catabolic and anabolic activities.
+
+Carbon is the basic element of organic compounds. Due to its unique properties,
+carbon occupies the central position in the skeleton of life.
+
+Covalent bonds result when two or more atoms complete their electron shells by
+sharing electrons. When an electron pair is shared between two atoms, a single
+covalent bond results. An example is the bond between two hydrogen atoms to form
+a hydrogen molecule. Covalent bonds store large amounts of energy.
+
+When a carbon atom combines with four atoms or radicals, the four bonds are
+arranged symmetrically in a tetrahedron, resulting in a stable configuration. The
+stability associated with the tetravalency of carbon atoms makes it a favorable element
+for the synthesis of complicated cellular structures. Carbon atoms can also combine
+mutually, forming stable, branched or unbranched chains or rings. This ability of carbon is
+responsible for the vast variety of organic compounds. C—C bonds form the skeleton of
+organic molecules.
+
+===== Page 26 =====
+Carbon combines commonly with H, O, N, P and S. Combinations with these and
+other elements contribute to the large variety of organic compounds. Carbon and
+hydrogen bonds (C-H bonds) are the potential source of chemical energy for cellular
+activities. Carbon-oxygen associations in glycosidic linkages provide stability to
+complex carbohydrate molecules. Carbon combines with nitrogen in amino acid linkages
+to form peptide bonds and proteins, which are very important due to their diversity
+in structure and function.
+
+Large organic molecules (macromolecules) such as cellulose, fats, and proteins
+are generally insoluble in water, hence they form structures of cells. They also serve as
+storage for smaller molecules like glucose, which in turn are responsible for providing
+energy to the body.
+
+Small molecules, such as glucose, amino acids, and fatty acids, serve either as a
+source of energy or as subunits to build macromolecules. Some small molecules are so
+unstable that they are immediately broken down to release energy, e.g. ATP. Such
+substances serve as an immediate source of energy for cellular metabolism.
+
+IMPORTANCE OF WATER
+
+Water is the medium of life. It is the most abundant compound in all organisms.
+It varies from 65 to 89 percent in different organisms. Human tissues contain about 20%
+water in bone cells and 85% in brain cells. Almost all reactions of a cell occur in the
+presence of water. It also takes part in many biochemical reactions such as hydrolysis of
+macromolecules. It is also used as a raw material in photosynthesis.
+
+Solvent properties:
+Due to its polarity, water is an excellent solvent for polar substances.
+Ionic substances, when dissolved in water, dissociate into positive and negative ions.
+Non-ionic substances having charged groups in their molecules are dispersed in water.
+When in solution, ions and molecules move randomly and are in a more favorable state
+to react with other molecules and ions. It is because of this property of water that
+almost all reactions in cells occur in aqueous media. In cells, all chemical reactions are
+catalyzed by enzymes which work in aqueous environments. Nonpolar organic molecules,
+such as fats, are insoluble in water and help to maintain membranes which make
+compartments in the cell.
+
+Heat capacity:
+Water has a great ability to absorb heat with minimal change in its own
+temperature. The specific heat capacity of water — the number of calories required to raise
+the temperature of 1g of water from 15 to 16°C — is 1.0. This is because much of the
+energy is used to break hydrogen bonds. Water thus works as a temperature stabilizer for
+organisms in the environment and protects them from sudden thermal
+changes.
+
+===== Page 27 =====
+Heat of vaporization:
+Water absorbs much heat as it changes from liquid to gas. Heat of vaporization is
+expressed as calories absorbed per gram vaporized. The specific heat of vaporization of
+water is 574 Kcal/kg, which plays an important role in the regulation of heat produced by
+oxidation. It also provides a cooling effect to plants when water is transpired, or to animals
+when water is perspired. Evaporation of only 2 ml out of one liter of water lowers the
+temperature of the remaining 998 ml by 1°C.
+
+Ionization of water:
+Water molecules ionize to form H+ and OH- ions:
+H2O ⇌ H+ + OH-
+This reaction is reversible but an equilibrium is maintained. At 25°C the concentration of
+each of H+ and OH- ions in pure water is about 10^-7 mole/litre. The H+ and OH- ions
+affect and take part in many of the reactions that occur in cells.
+
+Protection:
+Water is an effective lubricant that provides protection against damage resulting
+from friction. For example, tears protect the surface of the eye from the rubbing of eyelids.
+
+Carbohydrates occur abundantly in living organisms. They are found in all
+organisms and in almost all parts of the cell. Cellulose of wood, cotton and paper,
+starches present in cereals, root tubers, cane sugar and milk sugar are all examples of
+carbohydrates. Carbohydrates play both structural and functional roles. Simple
+carbohydrates are the main source of energy in cells. Some carbohydrates are the main
+constituents of cell walls in plants and micro-organisms.
+
+The word carbohydrate literally means hydrated carbons. They are composed of
+carbon, hydrogen and oxygen, and the ratio of hydrogen and oxygen is the same as in water.
+Their general formula is (Cx(H2O)y), where x is a whole number from three to many
+thousands whereas y may be the same or a different whole number. Chemically, carbohydrates
+are defined as polyhydroxy aldehydes or ketones, or complex substances which on
+hydrolysis yield polyhydroxy aldehyde or ketone subunits. (Hydrolysis involves the breakdown
+of large molecules into smaller ones utilizing water molecules).
+
+The sources of carbohydrates are green plants. These are the primary products of
+photosynthesis. Other compounds of plants are produced from carbohydrates by various
+chemical changes.
+
+Carbohydrates in cells combine with proteins and lipids and the resultant
+compounds are called glycoproteins and glycolipids, respectively. Glycoproteins and
+glycolipids have a structural role in the extracellular matrix of animals and bacterial cell
+walls. Both these conjugated molecules are components of biological membranes.
+
+===== Page 28 =====
+Classification of Carbohydrates
+
+Carbohydrates are also called ‘saccharides' (derived from the Greek word
+‘sakcharon' meaning sugar) and are classified into three groups: 
+(i) Monosaccharides 
+(ii) Oligosaccharides 
+(iii) Polysaccharides.
+
+Monosaccharides: These are simple sugars. They are sweet in taste, easily soluble in
+water, and cannot be hydrolyzed into simpler sugars. Chemically they are either
+polyhydroxy aldehydes or ketones. All carbon atoms in a monosaccharide except one
+have a hydroxyl group. The remaining carbon atom is either a part of an aldehyde group
+or a keto group. The sugar with an aldehyde group is called an aldo-sugar, and with the keto
+group a keto-sugar. An example is the two trioses sketched below:
+
+CHO                CH2OH
+ |                  |
+H—C—OH           C=O
+ |                  |
+CH2OH            CH2OH
+
+Aldehyde form: Glyceraldehyde
+Keto form: Dihydroxyacetone
+
+In nature, monosaccharides with 3 to 7 carbon atoms are found. They are called
+trioses (3C), tetroses (4C), pentoses (5C), hexoses (6C), and heptoses (7C). They have
+the general formula (CH2O)n, where n is a whole number from three to many thousands.
+
+Two trioses mentioned above are intermediates in respiration and photosynthesis.
+Tetroses are rare in nature and occur in some bacteria. Pentoses and hexoses are the most
+common. From the biological point of view, the most important hexose is glucose. It is an
+aldose sugar.
+
+Structure of ribose (a pentose) and glucose (a hexose):

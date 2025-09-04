@@ -1,0 +1,122 @@
+ENZYMES
+
+Enzymes are the most important group of proteins which are biologically active.
+They tremendously increase the efficiency of biochemical reactions and are specific for
+each type of reaction. Without these enzymes, the reactions would proceed at a very slow
+speed, making life impossible.
+
+Enzymes are composed of hundreds of amino acids joined together and coiled
+upon themselves to form a globular structure. The catalytic activity is restricted to a small
+portion of the structure known as the active site. The reactant, called the substrate, is attached
+to the active site consisting of only a few amino acids, while the rest of the amino acids
+maintain the globular structure of the enzyme.
+
+Some enzymes consist solely of proteins, while others also have a non-protein part
+known as a cofactor, which is essential for the proper functioning of the enzyme. The
+cofactor usually acts as a “bridge” between the enzyme and its substrate. Often, it
+contributes directly to the chemical reactions that bring about catalysis. Sometimes the
+cofactor provides a source of chemical energy, helping to drive reactions which would
+otherwise be difficult or impossible.
+
+Some enzymes use metal ions as cofactors such as Mg²⁺, Fe²⁺, Cu²⁺, Zn²⁺, etc. A detachable
+cofactor is known as an activator if it is an inorganic ion.
+
+If the non-protein part is covalently bonded, it is called a prosthetic group.
+If it is loosely attached to the protein part, it is called a coenzyme. Coenzymes are closely
+related to vitamins, which represent the essential raw materials from which coenzymes are made.
+Only small quantities of vitamins are needed because, like enzymes, coenzymes can be
+used again and again.
+
+- An enzyme without its coenzyme or prosthetic group is called an apoenzyme.
+- Adding the correct coenzyme to the apoenzyme restores activity.
+- An enzyme consisting of a polypeptide chain and a cofactor is called a holoenzyme.
+
+Many enzymes are simply dissolved in the cytoplasm, while others are tightly bound
+to subcellular organelles. For example:
+- Enzymes of photosynthesis are found in the chloroplasts.
+- Enzymes of cellular respiration are found in the mitochondria.
+- Enzymes involved in protein synthesis are an integral part of ribosomes.
+
+
+CHARACTERISTICS OF ENZYMES
+
+1. All enzymes are globular proteins.
+2. They increase the rate of reaction without being used up.
+3. Their presence does not affect the nature or properties of the end products.
+4. Small amounts of an enzyme can accelerate chemical reactions.
+5. They are highly specific in their action; a single enzyme catalyzes only one type of reaction (or a group of closely related reactions).
+6. They are sensitive to changes in pH, temperature, and substrate concentration.
+7. Some enzymes require a cofactor for proper functioning.
+8. They lower the activation energy of reactions.
+
+Note: Some enzymes are produced in an inactive form to prevent damage.
+For example, pepsin (a powerful protein-digesting enzyme) is produced in the inactive form
+pepsinogen, which is later converted into active pepsin in the digestive tract.
+
+
+MECHANISM OF ENZYME ACTION (CATALYSIS)
+
+An enzyme is a three-dimensional globular protein with a specific shape determined by
+its amino acid sequence. Each enzyme recognizes and reacts only with its specific substrate,
+transforming it into a product. The enzyme itself remains unchanged and can be reused.
+
+In many cases, enzymes work in a series of reactions to complete metabolic pathways,
+such as respiration and photosynthesis. In these cases, enzymes are organized in a precise
+sequence, handing substrates from one to another in an “enzyme-to-enzyme chain”.
+
+The active site of an enzyme has two regions:
+- Binding site – where the substrate attaches.
+- Catalytic site – where the substrate is transformed into product.
+
+
+MODELS OF ENZYME ACTION
+
+1. Lock and Key Model (Emil Fischer, 1890):
+   - The active site is rigid and fits only a specific substrate, like a key fitting a lock.
+   - Explains specificity but not flexibility of enzymes.
+
+2. Induced Fit Model (Koshland, 1959):
+   - The enzyme changes its shape slightly when the substrate binds.
+   - This change enhances catalytic activity and explains enzyme flexibility better.
+
+
+FACTORS AFFECTING ENZYME ACTIVITY
+
+1. Enzyme Concentration:
+   - At unlimited substrate concentration, the reaction rate is directly proportional to enzyme amount.
+   - After a certain point, increasing enzyme concentration no longer increases the reaction rate.
+
+2. Substrate Concentration:
+   - At low concentrations, the reaction rate is proportional to the amount of substrate.
+   - At high substrate concentration, the enzyme becomes saturated and the reaction rate plateaus.
+
+3. Temperature:
+   - Reaction rate increases with temperature up to an optimum temperature (≈37 °C for human enzymes).
+   - Higher temperatures cause denaturation of the enzyme due to excessive vibration breaking its structure.
+
+4. pH Value:
+   - Each enzyme has an optimum pH at which it functions most effectively.
+   - A slight change in pH can alter the ionization of amino acids at the active site and affect substrate binding.
+   - Extreme pH changes can denature enzymes.
+
+
+INHIBITION OF ENZYME ACTIVITY
+
+An inhibitor is a chemical substance which binds to an enzyme but is not transformed into product(s),
+thus blocking the active site temporarily or permanently.
+
+Types of Inhibitors:
+1. Irreversible Inhibitors:
+   - Form covalent bonds or destroy enzyme structure permanently.
+   - Examples: poisons like cyanide.
+
+2. Reversible Inhibitors:
+   - Form weak linkages and can be displaced by increasing substrate concentration.
+
+   a. Competitive Inhibitors:
+      - Compete with the substrate for binding to the active site due to structural similarity.
+      - Prevent product formation.
+
+   b. Non-competitive Inhibitors:
+      - Bind at a site other than the active site, altering the enzyme’s structure so that catalysis cannot occur,
+        even if the substrate binds.

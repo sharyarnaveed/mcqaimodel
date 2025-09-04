@@ -1,0 +1,218 @@
+The Human Circulatory System
+All the cells of our body need food from the digestive system and oxygen from the lungs. Carbon dioxide and waste chemicals have to be removed via the lungs and kidneys, respectively. Our bodies are too large for materials to diffuse in and out, so we have a system of internal transport—a circulatory system that transports oxygen and carbon dioxide, distributes nutrients to the body cells, and carries the waste products of metabolism to specific sites for disposal.
+
+The internal transport or blood circulatory system of man is divided into the cardiovascular system and the lymphatic system. The cardiovascular system consists of a strong muscular heart, three kinds of blood vessels (arteries, capillaries, veins), and blood. The study of the blood vessels of the cardiovascular system is called angiology.
+
+12.1 The Heart
+The heart functions as a pump and is responsible for the circulation of blood through the blood vessels. The human heart is a hollow, fibromuscular organ. The Greek name for the heart is cardia (adjective: cardiac). The Latin name is cor (adjective: coronary).
+
+Shape & Location: The adult heart is cone-shaped. The blunt, rounded point is the apex, and the larger flat part is the base. It is located in the thoracic cavity between the lungs.
+
+Pericardium: The heart is enclosed in a closed sac called the pericardium. It consists of two parts:
+
+Fibrous Pericardium: The outer part, made of inelastic white fibrous tissue that protects the heart from overfilling.
+
+Serous Pericardium: The inner part, a thin serous membrane that covers the smooth outer surface of the heart.
+
+Chambers: The heart contains four chambers: two upper atria (singular: atrium, meaning "entrance chamber") and two lower ventricles (meaning "belly"). The atria receive blood, and the ventricles pump blood out.
+
+Wall Layers: The heart wall has three layers:
+
+Epicardium: The smooth outer surface (same as the visceral layer of the serous pericardium).
+
+Myocardium: The thick middle layer, composed of cardiac muscle cells. This is the layer that contracts.
+
+Endocardium: The smooth inner lining, consisting of epithelium over a layer of connective tissue. It also covers the heart valves.
+
+Wall Thickness: The thickness of the walls differs. Atria have comparatively thin walls as they only pump blood into the ventricles. Ventricles have thicker walls to force blood out. The left ventricle has the thickest wall (about three times thicker than the right ventricle) because it must pump blood throughout the entire body.
+
+Valves of the Heart
+Valves prevent the backflow of blood.
+
+Atrioventricular (AV) Valves: Located between the atria and ventricles.
+
+Tricuspid Valve: Between the right atrium and right ventricle (three cusps).
+
+Bicuspid (Mitral) Valve: Between the left atrium and left ventricle (two cusps).
+
+The cusps of these valves are attached to the ventricular walls by fibrous cords called chordae tendineae, which are connected to papillary muscles. When the ventricles contract, these muscles also contract, pulling on the chordae tendineae to prevent the valve cusps from flipping into the atria.
+
+Semilunar Valves: Located at the bases of the large arteries leaving the ventricles.
+
+Pulmonary Semilunar Valve: At the base of the pulmonary trunk.
+
+Aortic Semilunar Valve: At the base of the aorta.
+
+These valves prevent blood from flowing back into the ventricles after contraction.
+
+Pathway of Blood Through the Heart
+
+Deoxygenated blood from the body enters the right atrium via the superior and inferior vena cavae.
+
+From the right atrium, blood passes through the tricuspid valve into the right ventricle.
+
+The right ventricle contracts, pumping blood through the pulmonary semilunar valve into the pulmonary trunk and then to the pulmonary arteries, which carry it to the lungs to be oxygenated.
+
+Oxygenated blood from the lungs returns to the heart via the pulmonary veins, entering the left atrium.
+
+From the left atrium, blood passes through the bicuspid valve into the left ventricle.
+
+The left ventricle contracts, pumping blood through the aortic semilunar valve into the aorta, which distributes it to the rest of the body.
+
+The heart is a double pump: the right side pumps blood to the lungs (pulmonary circuit), and the left side pumps blood to the body (systemic circuit).
+
+The Cardiac Cycle
+The cardiac cycle is the sequence of events in one complete heartbeat, lasting about 0.8 seconds at rest. It involves periods of contraction (systole) and relaxation (diastole).
+
+Atrial Systole: Atria contract, topping off the ventricles with blood.
+
+Ventricular Systole: Ventricles contract. The AV valves close (producing the first heart sound, "lub"), and blood is ejected through the semilunar valves into the arteries.
+
+Diastole: All chambers relax. The semilunar valves close (producing the second heart sound, "dub"), and the ventricles fill passively with blood from the atria.
+
+Conduction System of the Heart
+The heart beats rhythmically due to its built-in conduction system, a network of specialized cardiac muscle cells.
+
+Sinoatrial (SA) Node: Located in the upper wall of the right atrium. It is the natural pacemaker; it initiates each heartbeat and sets the heart rate.
+
+Atrioventricular (AV) Node: Located near the junction of the right atrium and ventricle. It delays the impulse slightly to allow the atria to finish contracting before the ventricles begin.
+
+Atrioventricular (AV) Bundle (Bundle of His): Conducts the impulse from the AV node into the ventricles.
+
+Right and Left Bundle Branches: Conduct the impulse down the interventricular septum.
+
+Purkinje Fibers: Spread the impulse throughout the ventricular walls, causing them to contract from the apex upward.
+
+This coordinated pathway ensures efficient pumping. An electrocardiogram (ECG or EKG) records the electrical activity of the heart. The waves (P, QRS, T) correspond to atrial depolarization, ventricular depolarization, and ventricular repolarization, respectively.
+
+Heart Rate Regulation
+The SA node sets the intrinsic heart rate (~100 bpm), but the autonomic nervous system modifies it.
+
+Parasympathetic nervous system (via vagus nerve) decreases heart rate (bradycardia).
+
+Sympathetic nervous system increases heart rate and force of contraction (tachycardia).
+Artificial pacemakers can be implanted to correct abnormal heart rhythms (arrhythmias).
+
+12.2 Blood Vessels
+There are three main types of blood vessels:
+
+Arteries: Carry blood away from the heart. They have thick, muscular, elastic walls to withstand high pressure. Small arteries are called arterioles.
+
+Capillaries: Microscopic vessels with walls only one cell thick. They form vast networks (capillary beds) where the exchange of gases, nutrients, and wastes occurs between the blood and tissues.
+
+Veins: Carry blood back to the heart. They have thinner walls and larger lumens than arteries and contain valves to prevent backflow. Small veins are called venules.
+
+Structure of Blood Vessel Walls
+
+Tunica Intima: Inner lining of endothelium.
+
+Tunica Media: Middle layer of smooth muscle and elastic fibers. It is thick in arteries for vasoconstriction and vasodilation.
+
+Tunica Adventitia: Outer layer of connective tissue.
+
+Blood Flow and Velocity
+Blood flow is fastest in the aorta and large arteries and slowest in the capillaries, where the total cross-sectional area is greatest. This slow flow is essential for efficient exchange.
+
+Systemic Circulation
+This is the circuit that carries oxygenated blood from the left ventricle to the body and returns deoxygenated blood to the right atrium. The aorta is the main artery, and the venae cavae are the main veins.
+
+Coronary Circulation
+The heart muscle itself is supplied with blood by the right and left coronary arteries (branching from the aorta). Blood returns via cardiac veins that converge into the coronary sinus, which empties into the right atrium. Blockage in these arteries can cause a heart attack.
+
+Hepatic Portal System
+A portal system is a vascular arrangement that begins and ends in capillaries. The hepatic portal system carries nutrient-rich blood from the capillaries of the stomach, intestines, spleen, and pancreas to the liver via the hepatic portal vein. The liver processes these nutrients before the blood returns to the general circulation via the hepatic veins to the inferior vena cava.
+
+12.3 Blood Pressure
+Blood pressure is the force exerted by blood against the walls of blood vessels. It is measured in millimeters of mercury (mmHg).
+
+Systolic Pressure: The peak pressure during ventricular systole (normal: ~120 mmHg).
+
+Diastolic Pressure: The lowest pressure during ventricular diastole (normal: ~80 mmHg).
+
+Blood pressure is written as systolic/diastolic (e.g., 120/80 mmHg).
+
+Regulation of Blood Pressure
+Blood pressure is regulated by:
+
+Baroreceptors: Pressure sensors in the aorta and carotid arteries that send signals to the brain.
+
+Vasoconstriction/Vasodilation: Controlled by the vasomotor center in the medulla oblongata.
+
+Heart Rate and Stroke Volume: Influenced by the nervous and endocrine systems.
+
+Hormones: e.g., Epinephrine (vasoconstrictor), Histamine (vasodilator), Prostaglandins (can be either).
+
+Hypertension (High Blood Pressure)
+Defined as sustained BP higher than 140/90 mmHg. It forces the heart to work harder and damages blood vessels, increasing the risk of heart attack, stroke, and kidney failure. Causes include physical inactivity, stress, salt-rich diets, obesity, alcohol, tobacco, age, and family history.
+
+Hypotension (Low Blood Pressure)
+Can cause dizziness, blurred vision, and fainting. It occurs primarily in older adults and can be caused by sudden standing (postural hypotension) or after eating.
+
+12.4 Cardiovascular Disorders
+Thrombosis and Embolism
+
+Thrombosis: Formation of a stationary blood clot (thrombus) within a blood vessel.
+
+Embolism: The blockage of a vessel by a mass (embolus) that has traveled through the bloodstream from its site of origin. Most emboli are broken-off thrombi (thromboemboli).
+
+Atherosclerosis and Arteriosclerosis
+
+Atherosclerosis: The buildup of fatty deposits (plaques) containing cholesterol on artery walls, narrowing the lumen.
+
+Arteriosclerosis: "Hardening of the arteries"; the plaques become hardened by calcium deposits. This reduces elasticity and can lead to thrombosis.
+
+Risk Factors: High cholesterol (hypercholesterolemia), hypertension, cigarette smoking, diabetes, age, lack of exercise, stress, obesity.
+
+Angina Pectoris
+Chest pain that occurs when the heart muscle doesn't get enough oxygen, often due to narrowed coronary arteries. It is a warning sign of potential future heart attack.
+
+Heart Attack (Myocardial Infarction)
+Occurs when blood flow to a part of the heart is blocked (often by a thrombus), causing cardiac muscle cells to die. Dead muscle is replaced by non-contractile scar tissue, permanently weakening the heart.
+
+Congestive Heart Failure
+The heart is unable to pump all the blood returned to it, leading to a backup of blood in the veins and fluid accumulation in tissues (edema).
+
+Congenital Heart Defects
+Problems present at birth due to abnormal embryonic development.
+
+Patent Ductus Arteriosus: The ductus arteriosus, a fetal blood vessel connecting the aorta and pulmonary artery, fails to close after birth.
+
+Tetralogy of Fallot ("Blue Baby Syndrome"): A combination of four defects that allows deoxygenated blood to mix with oxygenated blood, causing cyanosis (blueness of the skin).
+
+Atrial Septal Defect (ASD): A hole in the interatrial septum, allowing blood to mix between the atria.
+
+Treatments for Cardiovascular Disease
+
+Coronary Artery Bypass Grafting (CABG): A surgical procedure where a healthy blood vessel from another part of the body is used to create a detour around a blocked coronary artery.
+
+Angioplasty and Stenting: A catheter with a deflated balloon is threaded to the blocked artery. The balloon is inflated to compress the plaque, and a stent (a slotted tube) is often placed to keep the artery open.
+
+Open-Heart Surgery: The chest is opened, and the heart is stopped temporarily. A heart-lung machine circulates blood during the operation.
+
+12.5 The Lymphatic System
+The lymphatic system includes lymph, lymphocytes, lymphatic vessels, lymph nodes, the spleen, the thymus, and the tonsils. Its functions include:
+
+Returning tissue fluid (lymph) to the blood.
+
+Transporting absorbed fats from the intestine.
+
+Helping defend the body against disease.
+
+Lymph Formation and Composition
+
+Formation: About 30 liters of fluid filter from blood capillaries into tissues daily. About 27 liters are reabsorbed. The remaining 3 liters become interstitial fluid. This fluid enters lymphatic capillaries, where it is called lymph.
+
+Composition: Lymph is similar to blood plasma but has a lower concentration of proteins.
+
+Lymphatic Vessels
+Lymphatic capillaries merge to form larger lymphatic vessels. These vessels have valves to prevent backflow and eventually empty into one of two main ducts:
+
+Thoracic Duct: Drains lymph from the lower body, left upper extremity, and left side of the head and neck into the left subclavian vein.
+
+Right Lymphatic Duct: Drains lymph from the right upper body into the right subclavian vein.
+
+Lymph Nodes
+These are small, bean-shaped structures found along lymphatic vessels. They filter lymph, trapping bacteria, viruses, and other debris, which are then destroyed by lymphocytes (white blood cells).
+
+Lacteals
+These are special lymphatic capillaries located in the villi of the small intestine. They absorb dietary fats, giving the lymph here (called chyle) a milky appearance.
